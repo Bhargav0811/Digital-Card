@@ -254,6 +254,7 @@ height: 4rem;
 display: block;
 background-color: aliceblue;
 margin-left: -1%;
+margin-bottom: -1%;
 }
 
 #triangle-topleft {
