@@ -21,7 +21,8 @@ body {
  /* background-image: url(images/texture.png);
     background-repeat: no-repeat; */
     background-image: url(images/photo-1568535904307-f48b760a39f3\ -\ Copy.jfif);
-
+    padding-left: auto;
+    padding-right: auto;
     background-size: cover;
     background-position: center;
 }
