@@ -9,11 +9,13 @@
 }
 html{
     font-size: 62.5%;
+    overflow-x: hidden;
 
 }
 
 *{
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 body {
@@ -23,6 +25,7 @@ body {
     background-image: url(images/photo-1568535904307-f48b760a39f3\ -\ Copy.jfif);
     background-size: cover;
     background-position: center;
+    overflow-x: hidden;
 }
 #Home{
   margin: 2%,auto;
